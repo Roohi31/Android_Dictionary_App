@@ -1,2 +1,2 @@
-# Android_calculator_project
-* A Basic Calculator Application which helped me to explore the ViewGroups and Layouts.
+# Android_Dictionary_App_project
+* This App will help us to find the meaning of the word
