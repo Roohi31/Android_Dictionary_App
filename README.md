@@ -1,8 +1,9 @@
-# Android_Dictionary_App_project
+# Android_Dictionary_Application
 * The Application has been created using Kotlin lang and for UI part XML has been used.
 * free Dictionary API has been used and called using Retrofit
-* 
-** FEATURES **
+* **API**
+  
+   **FEATURES**
 * Search Bar: Users can input words to search for definitions.
 #
 #
